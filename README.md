@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Express.js
 - 💬 Ask me about anything at all!
 - 📫 How to reach me: rajatpathak435@gmail.com
-- ⚡ Fun fact: I'm a weeb, xD.
+- ⚡ Fun fact: I'm a weeb and a music enthusiast.
 
 <br />
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Portfolio!
+- 🔭 I’m currently working on a [Portfolio!](https://raj-p.netlify.app/)
 - 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on MERN
 - 🤔 I’m looking for help with Express.js

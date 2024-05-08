@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [Portfolio!](https://raj-p.netlify.app/)
-- 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on MERN
-- 🤔 I’m looking for help with Express.js
-- 💬 Ask me about anything at all!
-- 📫 How to reach me: rajatpathak435@gmail.com
-- ⚡ Fun fact: I'm love watching anime and I am also a music enthusiast.
-
 <br />
 
 ### Languages and Tools:
